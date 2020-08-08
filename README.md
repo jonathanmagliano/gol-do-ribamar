@@ -50,7 +50,5 @@ Rode o comando:
 ## Veja também
 
  - [Oloquinho](https://github.com/oloquinho/oloquinho)
- - [xFiles](https://github.com/BrOrlandi/xfiles/)
- - [Faustão Errou](https://github.com/BrOrlandi/faustao-errou/)
  - [Omaewa](https://github.com/BrOrlandi/omaewa/)
  - [Poze](https://github.com/imdanielpiva/tomanocupacero/)
