@@ -1,0 +1,30 @@
+{
+  "name": "goldoribamar",
+  "version": "0.0.1",
+  "description": "E hoje tem gol do Ribamar, Ribamar!",
+  "main": "src/cli.js",
+  "scripts": {
+    "start": "node src/cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jonathanmagliano/gol-do-ribamar.git"
+  },
+  "keywords": [
+    "vasco",
+    "ribamar"
+  ],
+  "author": "Jonathan Magliano",
+  "license": "MIT",
+  "bin": {
+    "goldoribamar": "./src/cli.js"
+  },
+  "bugs": {
+    "url": "https://github.com/jonathanmagliano/gol-do-ribamar/issues"
+  },
+  "homepage": "https://github.com/jonathanmagliano/gol-do-ribamar#readme",
+  "dependencies": {
+    "meow": "^7.0.1",
+    "office-ui-fabric-react": "^7.126.1"
+  }
+}
