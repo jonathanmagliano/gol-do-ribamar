@@ -18,7 +18,8 @@
 </p>
 
 <p align="center">
-  <a href="#compatibilidade">Compatibilidade</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;	
+  <a href="#compatibilidade">Compatibilidade</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#vídeo">Vídeo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#instalação">Instalação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rodando">Rodando</a>&nbsp;&nbsp;&nbsp;
 </p>
@@ -32,6 +33,9 @@
 - Mac
 - Linux
 - Windows
+
+## Vídeo
+- https://youtu.be/REt9ryJdtz4
 
 ## Instalação
 Instalação global (pasta):
